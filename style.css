@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  #location-container {
+    margin-bottom: 20px;
+  }
+  
+  #user-location, #search-button {
+    padding: 10px;
+    margin: 5px;
+  }
+  
+  #weather-info {
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin: 0 auto;
+    width: 300px;
+  }
+  
